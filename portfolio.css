@@ -1,0 +1,270 @@
+body{
+    background: #243b55;
+    margin: 5%;
+}
+
+.border{
+    /* border: 1px solid white; */
+    /* border: none; */
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    float: left;
+    position: relative;
+}
+
+.uiui{
+    color: #fff;
+    text-align: center;
+}
+
+.b1{
+    width: 25%;
+    height: 100vh;
+    /* border: 1px solid wheat; */
+    float: left;
+}
+
+.b2{
+    width: 74%;
+    height: 100vh;
+    /* border: 1px solid wheat; */
+    float: left;
+    overflow: auto;
+}
+
+.b3{
+    /* border: 1px solid wheat; */
+    border: none;
+    width: 75%;
+    height: 35vh;
+    border-radius: 100%;
+    margin: 12%;
+    background-image: url("media/photo9.jpg");
+    background-size: cover;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+}
+
+h1.name{
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+p.myan{
+    color: aqua;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+ul li{
+    /* background-color: wheat; */
+    list-style: none;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+}
+
+li a{
+    /* background-color: black; */
+    text-decoration: none;
+    /* width: 170px; */
+    padding: 10px 0;
+    color: #fff;
+    opacity: 0.5;
+}
+
+li a:hover{
+    letter-spacing: 2px;
+    opacity: 1;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.b4{
+    /* border: 1px solid wheat; */
+    height: 40vh;
+    color: #fff;
+    padding: 5%;
+}
+
+.info{
+    letter-spacing: 3px;
+}
+
+.b5{
+    border: 1px solid  rgba(0, 0, 0, 0.5);
+    height: 25vh;
+    margin: 10% 0;
+    background-color: gray;
+    color: black;
+    font-size: 20px;
+    padding: 0% 5%;
+}
+
+.b6{
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 3%;
+}
+
+.b7{
+    /* border: 1px solid wheat; */
+    height: 200vh;
+    margin-top: 25%;
+    margin-bottom: 5%;
+    margin-right: 5%; 
+    padding: 2%;
+    color: #fff;
+    letter-spacing: 3px;
+   
+}
+
+.wiwi{
+    /* border: 1px solid wheat; */
+    width: 95%;
+    height: 40vh;
+    display: flex;
+    float: left;
+    flex-wrap: wrap;
+    margin: 3%;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+}
+
+.b8{
+    background-image: url("media/pj1.png");
+    background-size: contain;
+    width: 50%;
+    height: 35vh;
+}
+
+.b9{
+    background-image: url("media/pj3.png");
+    background-size: contain;
+    width: 35%;
+    height: 35vh;
+}
+
+.b10{
+    background-image: url("media/pj2.png");
+    background-size: cover;
+}
+
+.b11{
+    background-image: url("media/pj4.png");
+    background-size: contain;
+    height: 27vh;
+}
+
+.b12{
+    background-image: url("media/pj5.png");
+    background-size: cover;
+    height: 55vh;
+}
+
+.b13{
+    /* border: 1px solid wheat; */
+    height: 150vh;
+    margin-right: 5%;
+    color: #fff;
+    padding: 2%;
+}
+
+/* .umu{
+    border: 1px solid wheat;
+    width: 31%;
+    height: 30vh;
+    float: left;
+    margin: 1%;
+} */
+
+#brown{
+	background-color: sandybrown;
+}
+#blue{
+	background-color: skyblue;
+}
+#green{
+	background-color: lightgreen;
+}
+#pink{
+	background-color: lightpink;
+}
+
+.tomato,.another{
+	width: 45%;
+	height: 60vh;
+	/* border: 1px solid black; */
+    border: none;
+	float: left;
+	margin: 20px;
+	align-items: center;
+    border-radius: 10%;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+}
+
+.child{
+	width: 200;
+	height: 30vh;
+	border: 1px solid red;
+    border: none;
+	background-image: url("media/photo3.jpg");
+    background-size: cover;
+}
+
+.salad{
+    text-align: center;
+}
+
+.frfr{
+    padding: 0 5%;
+}
+
+.b14{
+    /* border: 1px solid wheat; */
+    height: 90vh;
+    margin-right: 5%;
+    color: #fff;
+    padding: 2%;
+}
+
+.qiqi{
+    /* border: 1px solid wheat; */
+    width: 45%;
+    height: 70vh;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+}
+
+.row input{
+    width: 100%;
+    height: 8vh;
+    font-size: 1.2rem;
+    border: none;
+    outline: none;
+}
+
+.row{
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font: 1.5rem;
+    padding: 2%;
+}
+
+.btnContainer{
+    background: #243b55;
+    display: inline;
+    border:none;
+    color: #fff;
+    height: 5vh;
+}
+
+
+
+
+
+
